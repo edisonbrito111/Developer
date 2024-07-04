@@ -1,0 +1,31 @@
+github.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOMqqnkVzrm0SdG6UOoqKLsabgH5C9okWi0dh2l9GKJl
+
+
+https://mouredev.com/git
+
+ssh-keygen -t ed25519 -C "edisonbrito1@gmail.com"
+
+ssh-add ~/id_rsa
+
+ssh-keygen -t ed25519-sk -C "edisonbrito1@gmail.com"
+ssh-keygen -t ecdsa-sk -C "edisonbrito1@gmail.com"
+
+git remote add origin git@github.com:edisonbrito111/init.git
+git remote add origin https://github.com/edisonbrito111/init.git
+"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+
+git remote add origin https://github.com/edisonbrito111/vscode-docs.git
+git branch -M main
+git push -u origin main
+
+/home/edge/Developer/git/edisonbrito111/repositories/init.git
+
+git config --global core.excludesfile /home/edge/developer/config/git/ignore_custom/.gitignore_global
+
+https://github.com/edisonbrito111/init.git
+
+git clone https://github.com/edisonbrito111/init.git
+
+
+
+
