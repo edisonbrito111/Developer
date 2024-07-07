@@ -1,8 +1,0 @@
-name:	Edison Rolando Brito Almeida
-address:	Eugenio Garzon N9-516 y Nicolas Aguilera
-id: 	1715434468
-phone: 	+593983772722
-email:	edisonbrito1@gmail.com
-passcode:	1978
-password:	DanielaIsabel3006.
-
